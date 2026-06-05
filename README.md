@@ -35,3 +35,21 @@ The final policy prevented:
 * Modifying bucket settings
 
 This implementation follows the Principle of Least Privilege.
+
+## Screenshots
+
+### IAM Group Created
+
+![IAM Group](screenshots/iam-group-created.png)
+
+### Policy Created
+
+![Policy Created](screenshots/policy-created.png)
+
+### Successful Bucket Access
+
+![Bucket Access](screenshots/bucket-access-success.png)
+
+### Upload Denied
+
+![Upload Denied](screenshots/upload-denied.png)
