@@ -1,22 +1,18 @@
 # AWS IAM Least Privilege Lab
 
-## Objective
-Demonstrate how to create IAM users, groups, and least privilege policies in AWS.
+## Project Objective
 
-## Skills Demonstrated
+Create an AWS IAM solution using least privilege principles that allows users to read objects from a specific S3 bucket while preventing modification or deletion of resources.
+
+## Services Used
+
 - AWS IAM
-- Policy Creation
-- Least Privilege
-- Security Best Practices
+- Amazon S3
 
-## Architecture
+## Concepts Demonstrated
 
-(To be added)
-
-## Screenshots
-
-(To be added)
-
-## Lessons Learned
-
-(To be added)
+- IAM Users
+- IAM Groups
+- Custom IAM Policies
+- Least Privilege Access Control
+- Resource-Based Permissions
